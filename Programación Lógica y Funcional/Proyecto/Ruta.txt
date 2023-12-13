@@ -1,0 +1,1 @@
+consult('C:/Users/jared/Downloads/Proyecto/champions.pl').
